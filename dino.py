@@ -55,8 +55,8 @@ display.set_caption('MyGame')
 
 background = transform.scale(image.load('way_3.png'),(900,600))
 
-button_play = transform.scale(image.load('playy.png'),(200,80))
-button_quit = transform.scale(image.load('quit.png'),(200,80))
+button_play = transform.scale(image.load('pngwing.com.png'),(200,80))
+button_quit = transform.scale(image.load('EXIT-Button-PNG-Clipart-Background.png'),(200,80))
 
 clock = time.Clock()
 game = True
